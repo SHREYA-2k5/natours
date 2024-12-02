@@ -76,7 +76,8 @@ HTML5 📝: The standard markup language used to create web pages, structuring t
 CSS3🎨: The style sheet language used to describe the presentation of a document written in HTML, making web pages attractive.
 
 JavaScript , Saas💻: A programming language that allows implementing complex features on web pages, such as interactive content.
- to ensure seamless integration, scalability, and efficient management of dynamic content and user interactions.
+
+ To ensure seamless integration, scalability, and efficient management of dynamic content and user interactions.
 
 
 Conclusion:
